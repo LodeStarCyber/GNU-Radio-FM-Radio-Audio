@@ -2,9 +2,9 @@
 GNU radio companion program that demodulates audio of FM radio station and displays a filtered FFT
 
 
+<img width="1627" height="673" alt="image" src="https://github.com/user-attachments/assets/db0cf864-5b24-4c39-b489-067a2195e7b1" />
 
 
-[FM_Radio_107.9_Audio.pdf](https://github.com/user-attachments/files/23558236/FM_Radio_107.9_Audio.pdf)
 
 
 
